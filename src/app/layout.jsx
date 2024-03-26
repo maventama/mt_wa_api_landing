@@ -6,10 +6,10 @@ import '@/styles/tailwind.css'
 export const metadata = {
   title: {
     template: '%s - MT WA API',
-    default: 'MT WA API - Buat website bisnis Anda dalam 1 jam.',
+    default: 'MT WA API - Integrasikan bisnis Anda dengan MT WA API.',
   },
   description:
-    'Dengan MT WA API, Anda dapat membuat website bisnis Anda dalam 1 jam saja, Anda bisa lebih fokus pada bisnis Anda.',
+    'Dengan MT WA API, Anda dapat mengirimkan pesan WhatsApp ke pelanggan Anda secara otomatis dan membangun chatbot yang dapat membantu pelanggan Anda dengan cepat dan efisien.',
 }
 
 const inter = Inter({

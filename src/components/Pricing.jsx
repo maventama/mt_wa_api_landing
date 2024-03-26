@@ -131,7 +131,7 @@ export function Pricing() {
           <Plan
             featured
             name="MT WA API "
-            price="Rp 300.000/month"
+            price="Rp 300.000/mo"
             description="Pas untuk website bisnis umkm/menengah Anda."
             href="https://tally.so/r/wkyOBe"
             features={[

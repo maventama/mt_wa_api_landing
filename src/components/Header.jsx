@@ -107,11 +107,13 @@ export function Header() {
             </div>
           </div>
           <div className="flex items-center gap-x-5 md:gap-x-8">
+            <div className='hidden md:inline-block'>
             <Button href="https://tally.so/r/wkyOBe" color="blue">
               <span>
                 Gunakan <span className="hidden lg:inline">sekarang</span>
               </span>
             </Button>
+            </div>
             <div className="-mr-1 md:hidden">
               <MobileNavigation />
             </div>
